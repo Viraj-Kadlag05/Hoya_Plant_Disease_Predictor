@@ -20,7 +20,10 @@ The main goal is to use predicted status of the plant i.e whether it is healthy 
 
 ## How the model works:
 The user needs to insert input leaf image into the web application,using the _Upload Image_ button and then the input image is sent to the classification model here we have used **MobileNet** architecture and the training is performed on train and valid dataset(fetched from _kaggle_), followed by testing and the predicted output is sent back to the web application, where we get the type of plant of input leaf image and followed by its health status and the remedy button gives you the prescription of the specific disease.
-![alt text](https://github.com/Viraj-Kadlag05/Hoya_Plant_Disease_Predictor/blob/main/Working%20flowchart-patravaidhyam-leaf%20detection.jpg?raw=true)
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Viraj-Kadlag05/Hoya_Plant_Disease_Predictor/blob/main/Working%20flowchart-patravaidhyam-leaf%20detection.jpg">
+</p>
 
 ## Challenges:
 
