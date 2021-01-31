@@ -27,9 +27,7 @@ The dataset was very large it contained neary 70,000 samples due to which the mo
 
 
 ## Achivements:
-
-We have successfully completed the training for our with nearly 75% accuracy. We have also developed a web interface for our project.
-collabrative Work done using **Google Collab**, large dataset stored in **Google Drive** saving system storage and increasing accessibilty
+collabrative Work done using **Google Collab**, large dataset stored in **Google Drive** saving system storage and increasing accessibilty.
 We have successfully completed the training for our with nearly 79% accuracy. We have also developed a web interface for our project.
 
 ## What's Next:
